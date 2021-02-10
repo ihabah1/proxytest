@@ -2,7 +2,7 @@
   "name": "proxytest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://proxytest2.herokuapp.com/",
+  "homepage": "http://localhost:5000/",
   "dependencies": {
     "concurrently": "^4.0.1",
     "express": "^4.16.4",
